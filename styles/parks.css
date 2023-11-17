@@ -1,0 +1,55 @@
+html {
+    background-image: url(/images/05bebf57802077.59e4bad4cf244.gif);
+    background-size: fill;
+}
+
+p {
+    font-size: 30px;
+}
+
+body {
+
+    background-image: url(https://mir-s3-cdn-cf.behance.net/project_modules/disp/1e2cf757802077.59e4b9645971f.gif);
+    background-size: fill;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.card {
+    background-image: url(/images/05bebf57802077.59e4bad4cf244.gif);
+    background-size: fill;
+    margin: o auto;
+    text-align: center;
+    padding: 20px;
+    color: white;
+
+
+}
+
+
+/*.card {
+    background-image: url(/images/05bebf57802077.59e4bad4cf244.gif);
+    background-size: fill;
+        margin: o auto;
+        text-align: center;
+        padding: 20px;
+        color: white;
+     
+    
+      }
+
+ main {
+    background-color: black;
+    text-align: center;
+    font-size: 20px;
+}
+
+h1{
+    background-color: black;
+    border: 10px solid; color: blue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 55px;
+    color: black;
+}

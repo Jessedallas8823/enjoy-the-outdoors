@@ -1,0 +1,25 @@
+main {
+    background-image: url(/images/05bebf57802077.59e4bad4cf244.gif);
+    background-size: fill;
+    font-size: 25px;
+    text-align: center;
+    font-family: fantasy;
+    color: white;
+}
+
+html {
+    background-image: url(/images/05bebf57802077.59e4bad4cf244.gif);
+    background-size: fill;
+
+}
+
+section {
+    background-image: url(/images/05bebf57802077.59e4bad4cf244.gif);
+    background-size: fill;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    max-width: 400;
+    max-height: 400;
+}

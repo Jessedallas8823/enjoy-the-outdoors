@@ -1,0 +1,48 @@
+html {
+  background-image: url(/images/05bebf57802077.59e4bad4cf244.gif);
+  background-size: fill;
+}
+
+
+.card {
+  background-image: url(/images/05bebf57802077.59e4bad4cf244.gif);
+  background-size: fill;
+  max-width: 800px;
+  margin: o auto;
+  text-align: center;
+  padding: 30px;
+  font-weight: bolder;
+  color: white;
+
+
+}
+
+main {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  background-image: url(/images/05bebf57802077.59e4bad4cf244.gif);
+  background-size: fill;
+
+}
+
+body {
+
+  background-image: url(https://mir-s3-cdn-cf.behance.net/project_modules/disp/1e2cf757802077.59e4b9645971f.gif);
+  background-size: fill;
+  text-align: center;
+  /*background-color: black;*/
+  color: white;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+
+section {
+  background-image: url(https://mir-s3-cdn-cf.behance.net/project_modules/disp/1e2cf757802077.59e4b9645971f.gif);
+  background-size: fill;
+
+
+
+}
