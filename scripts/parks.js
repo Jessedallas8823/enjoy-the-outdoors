@@ -49,7 +49,7 @@ function northFaceLoDrop(locationsArray, northFaceLocationSlt) {
 
 function northFaceUserSlt(event) {
     const lo = event.target.value
-    
+
     let html = ""
     for (let index = 0; index < nationalParksArray.length; index += 1) {
 
